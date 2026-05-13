@@ -7,10 +7,10 @@ Training code for the ICML 2026 paper MRPO:
 
 [**Wei Han**](https://scholar.google.com.hk/citations?user=67WVzncAAAAJ&hl=zh-CN),
 [**Yuanxing Liu**](https://scholar.google.com.hk/citations?user=jgSM9f0AAAAJ&hl=zh-CN&oi=ao),
-**Mingda Li**
-**Ruiyu Xiao**
+**Mingda Li**,
+**Ruiyu Xiao**,
 [**Weinan Zhang**](https://scholar.google.com.hk/citations?hl=zh-CN&user=DBLdEf4AAAAJ),
-[**Ting Liu**](https://scholar.google.com.hk/citations?user=zyMJ1V0AAAAJ&hl=zh-CN&oi=ao),
+[**Ting Liu**](https://scholar.google.com.hk/citations?user=zyMJ1V0AAAAJ&hl=zh-CN&oi=ao)
 
 </div>
 
