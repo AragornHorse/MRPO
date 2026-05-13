@@ -1,8 +1,4 @@
 # MRPO
-Training code for the ICML 2026 paper MRPO: 
-
-## Magnitude-Regularized Policy Optimization via L1 Constraints.
-
 <div align="center">
 
 [**Wei Han**](https://scholar.google.com.hk/citations?user=67WVzncAAAAJ&hl=zh-CN),
@@ -13,6 +9,11 @@ Training code for the ICML 2026 paper MRPO:
 [**Ting Liu**](https://scholar.google.com.hk/citations?user=zyMJ1V0AAAAJ&hl=zh-CN&oi=ao)
 
 </div>
+
+Training code for the ICML 2026 paper 
+**MRPO: Magnitude-Regularized Policy Optimization via L1 Constraints**
+
+
 
 ## 🔖 Introduction
 Reinforcement learning (RL) for large language models (LLMs) relies on imperfect reward supervision, necessitating constraints on policy updates to prevent overfitting.
