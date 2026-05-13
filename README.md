@@ -4,6 +4,7 @@ Training code for the ICML 2026 paper MRPO:
 ## Magnitude-Regularized Policy Optimization via L1 Constraints.
 
 <div align="center">
+
 [**Wei Han**](https://scholar.google.com.hk/citations?user=67WVzncAAAAJ&hl=zh-CN),
 [**Yuanxing Liu**](https://scholar.google.com.hk/citations?user=jgSM9f0AAAAJ&hl=zh-CN&oi=ao),
 **Mingda Li**
