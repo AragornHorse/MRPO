@@ -30,3 +30,15 @@ Empirically, MRPO delivers exceptional results across diverse scenarios, notably
 
 ## 🚀Training
 You can use the provided `train_mrpo_token.py` for training. Alternatively, you can follow the commands in `trl` (https://github.com/huggingface/trl) and train with our `MRTrainer` implemented in `mr_trainer_token.py`.
+
+## Cite
+```
+@inproceedings{
+han2026mrpo,
+title={{MRPO}: Magnitude-Regularized Policy Optimization via L1 Constraints},
+author={Wei Han and Yuanxing Liu and Mingda Li and Ruiyu Xiao and Weinan Zhang and Ting Liu},
+booktitle={Forty-third International Conference on Machine Learning},
+year={2026},
+url={https://openreview.net/forum?id=e2xQL4BWrY}
+}
+```
